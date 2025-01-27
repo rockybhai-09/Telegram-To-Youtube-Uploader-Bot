@@ -16,7 +16,7 @@ class Config:
 
     AUTH_USERS = [6947378236]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "Pirates"
 
     VIDEO_CATEGORY = ""
 
